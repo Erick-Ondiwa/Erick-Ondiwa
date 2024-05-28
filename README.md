@@ -10,7 +10,7 @@
 
 ## Languages and Tools
 
-<p align="right">
+<p>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="HTML5" width="40" height="40"/> </a> 
     <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" alt="CSS3" width="40" height="40"/> </a> 
     <a href="https://www.javascript.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="JavaScript" width="40" height="40"/></a> 
@@ -28,7 +28,7 @@
 
 ## My Stats
 
-[![Erick Ondiwa'z GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-Ondiwa&show_icons=true&theme=radical)](https://github.com/Erick-Ondiwa/github-readme-stats)
+[![Erick Ondiwaz' GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-Ondiwa&show_icons=true&theme=radical)](https://github.com/Erick-Ondiwa/github-readme-stats)
 
 
 
