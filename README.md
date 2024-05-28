@@ -37,7 +37,7 @@
 
 
 ## Streak
-<div align="right">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Erick-Ondiwa&theme=radical)](https://git.io/streak-stats)
-</div>
+
 
