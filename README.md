@@ -28,12 +28,12 @@
 
 ## My Stats
 <div align = "right">
-[![Erick Ondiwa'z GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-Ondiwa&show_icons=true&theme=radical)](https://github.com/Erick-Ondiwa/github-readme-stats)
+[![Erick Ondiwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-Ondiwa&show_icons=true&theme=radical)](https://github.com/Erick-Ondiwa/github-readme-stats)
 </div>
 
 ## Total Contributions
 <div align = "right">
-[![Erick Ondiwa'z GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-Ondiwa&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Erick-Ondiwa/github-readme-stats)
+[![Erick Ondiwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-Ondiwa&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Erick-Ondiwa/github-readme-stats)
 </div>
 
 ## Streak
