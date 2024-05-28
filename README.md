@@ -33,7 +33,10 @@
 
 ## Total Contributions
 
-[![Erick Ondiwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-Ondiwa&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Erick-Ondiwa/github-readme-stats)
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Your Name's 
+       GitHub stats" />
+   </a>
 
 
 ## Streak
