@@ -22,22 +22,22 @@
 
 ## Most Used Languages
 
-<div align = "right">
+<div align="right">
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Ondiwa&layout=compact&langs_count=10)](https://github.com/Erick-Ondiwa/github-readme-stats)
 </div>
 
 ## My Stats
-<div align = "right">
-[![Erick Ondiwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-Ondiwa&show_icons=true&theme=radical)](https://github.com/Erick-Ondiwa/github-readme-stats)
+<div align="right">
+[![Erick Ondiwa'z GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-Ondiwa&show_icons=true&theme=radical)](https://github.com/Erick-Ondiwa/github-readme-stats)
 </div>
 
 ## Total Contributions
-<div align = "right">
+<div align="right">
 [![Erick Ondiwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-Ondiwa&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Erick-Ondiwa/github-readme-stats)
 </div>
 
 ## Streak
-<div align = "right">
+<div align="right">
 [![GitHub Streak](https://streak-stats.demolab.com?user=Erick-Ondiwa&theme=radical)](https://git.io/streak-stats)
 </div>
 
