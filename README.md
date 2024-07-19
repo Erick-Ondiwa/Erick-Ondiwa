@@ -2,21 +2,25 @@
 - I’m interested in Data Science and Machine Learning .
 - I’m currently learning Python and Artificial Intelligence to get enhanced with Data Science Concepts.
 - I’m looking forward  to collaborate on Cross-functional Teams:This will enable me work with professionals from various disciplines, such as Agricultural Technology,  product managers,and Software Development and Data Engineering. This provides a holistic perspective on the Data Science Concepts.
-- Reach me at email: erickochieng3860@gmail.com / Contact info: 0757096101.
+- Reach me at email: erickondiwaz01@gmail.com / Contact info: +254-757-096-101.
  Pronouns: Him/He.
-- Fun fact: Agile Athlete: "I apply Agile principles not just in coding but also in my daily life. Sprints and retrospectives have made me more productive in everything I do."
+- Fun fact: Hard Things are Just Hard.
 
 
 ## Languages and Tools
 
+  <script
+  src="https://kit.fontawesome.com/006d8b3681.js" crossorigin="anonymous">
+ </script>
+
 <p>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="HTML5" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" alt="CSS3" width="40" height="40"/> </a> 
-    <a href="https://www.javascript.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="JavaScript" width="40" height="40"/></a> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" alt="Java" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" alt="Python" width="40" height="40"/> </a> 
-    <a href="https://www.php.net" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" alt="PHP" width="40" height="40"/> </a> 
-    <a href="https://www.rust-lang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg" alt="Rust" width="40" height="40"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <i class="fa fa-html5" aria-hidden="true" alt="HTML5" width="40" height="40"></i></a> 
+    <a href="https://www.w3.org/Style/CSS/" target="_blank"> <i class="fab fa-css3" alt="CSS3" width="40" height="40"></i></a> 
+    <a href="https://www.javascript.com" target="_blank"> <i class="fa-brands fa-js" alt="JavaScript" width="40" height="40"></i></a> 
+<!--     <a href="https://www.java.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" alt="Java" width="40" height="40"/> </a>  -->
+    <a href="https://www.python.org" target="_blank"> <i class="fab fa-python" alt="Python" width="40" height="40"></i></a> 
+    <a href="https://www.php.net" target="_blank"> <i class="fa-brands fa-php" alt="PHP" width="40" height="40"></i></a> 
+    <a href="https://www.rust-lang.org" target="_blank"> <i class="fa-brands fa-rust" alt="Rust" width="40" height="40"></i></a> 
 </p>
 
 ## Most Used Languages
