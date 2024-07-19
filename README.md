@@ -8,10 +8,13 @@
 
 
 ## Languages and Tools
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+<!-- <link rel="stylesheet" href="https://kit.fontawesome.com/006d8b3681.js" crossorigin="anonymous""> -->
 
-  <script
-  src="https://kit.fontawesome.com/006d8b3681.js" crossorigin="anonymous">
- </script>
+
+ // <script
+<!--   src="https://kit.fontawesome.com/006d8b3681.js" crossorigin="anonymous"> -->
+ // </script>
 
 <p>
     <a href="https://www.w3.org/html/" target="_blank"> <i class="fa fa-html5" aria-hidden="true" alt="HTML5" width="40" height="40"></i></a> 
