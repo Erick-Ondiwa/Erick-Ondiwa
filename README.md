@@ -1,5 +1,5 @@
 - Hi, I’m Erick Ondiwa,
-- an  Data Scientist and Machine Learning Engineer.
+- an Aspiring Data Scientist and Machine Learning Engineer.
 - I’m currently learning Python and Artificial Intelligence to get enhanced with Data Science Concepts.
 - I’m looking forward  to collaborate on any project, frontend, backend, fullstack, Machine Learning or AI.
 - - Fun fact: Hard Things are Just Hard.
