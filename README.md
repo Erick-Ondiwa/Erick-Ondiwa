@@ -2,7 +2,7 @@
 - an Aspiring Data Scientist and Machine Learning Engineer.
 - I’m currently learning Python and Artificial Intelligence to get enhanced with Data Science Concepts.
 - I’m looking forward  to collaborate on any project, frontend, backend, fullstack, Machine Learning or AI.
-- - Fun fact: Hard Things are Just Hard.
+- Fun fact: Hard Things are Just Hard.
 - Reach me at email: erickondiwaz01@gmail.com / Contact info: +254-757-096-101.
 
 
@@ -98,5 +98,9 @@
 ## Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Erick-Ondiwa&theme=radical)](https://git.io/streak-stats)
+
+
+## Support
+<a href='https://ko-fi.com/L3L110QG0H' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
