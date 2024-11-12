@@ -81,23 +81,20 @@
 
 <!--   src="https://kit.fontawesome.com/006d8b3681.js" crossorigin="anonymous"> -->
 
-
-
 ## Most Used Languages
 
-
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Ondiwa&layout=compact&langs_count=10)](https://github.com/Erick-Ondiwa/github-readme-stats)
-
 
 ## My Stats
 
 [![Erick Ondiwaz' GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-Ondiwa&show_icons=true&theme=radical)](https://github.com/Erick-Ondiwa/github-readme-stats)
 
-
-
 ## Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Erick-Ondiwa&theme=radical)](https://git.io/streak-stats)
+
+![Profile views](https://komarev.com/ghpvc/?username=Erick-Ondiwa)
+
 
 
 ## Support
