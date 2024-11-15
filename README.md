@@ -91,7 +91,7 @@
 
 ## Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Erick-Ondiwa&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Erick-Ondiwa)](https://git.io/streak-stats)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Erick-Ondiwa)
 
